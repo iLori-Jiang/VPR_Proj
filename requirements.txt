@@ -1,0 +1,12 @@
+torch
+torchvision
+pillow
+numpy
+matplotlib
+opencv-python
+timm
+albumentations
+ipykernel
+notebook
+pytorch-metric-learning
+# faiss
